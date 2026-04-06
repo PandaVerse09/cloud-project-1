@@ -49,7 +49,7 @@ GitHub → GitHub Actions → AWS S3 → CloudFront (CDN + HTTPS)
 ![Website](images/website.png)
 
 ### ⚙️ CI/CD Pipeline
-![CI/CD](assets/cicd_workflow.png)
+![CI/CD](images/cicd_workflow.png)
 ---
 
 ## 📌 Key Learnings
